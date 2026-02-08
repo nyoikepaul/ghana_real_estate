@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ghana Real Estate Premium Website - Odoo Module
 
 ## 🏠 Premium Real Estate Website for Ghana
@@ -257,3 +258,7 @@ For support, please contact:
 ---
 
 **Made with ❤️ for Ghana's Real Estate Market**
+=======
+# ghana_real_estate
+Premium Real Estate Website for Ghana - Odoo Module
+>>>>>>> origin/main
